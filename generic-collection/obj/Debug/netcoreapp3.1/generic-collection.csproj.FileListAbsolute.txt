@@ -1,0 +1,11 @@
+C:\repos\generic-collectionSolutions\generic-collection\bin\Debug\netcoreapp3.1\generic-collection.exe
+C:\repos\generic-collectionSolutions\generic-collection\bin\Debug\netcoreapp3.1\generic-collection.deps.json
+C:\repos\generic-collectionSolutions\generic-collection\bin\Debug\netcoreapp3.1\generic-collection.runtimeconfig.json
+C:\repos\generic-collectionSolutions\generic-collection\bin\Debug\netcoreapp3.1\generic-collection.runtimeconfig.dev.json
+C:\repos\generic-collectionSolutions\generic-collection\bin\Debug\netcoreapp3.1\generic-collection.dll
+C:\repos\generic-collectionSolutions\generic-collection\bin\Debug\netcoreapp3.1\generic-collection.pdb
+C:\repos\generic-collectionSolutions\generic-collection\obj\Debug\netcoreapp3.1\generic-collection.csprojAssemblyReference.cache
+C:\repos\generic-collectionSolutions\generic-collection\obj\Debug\netcoreapp3.1\generic-collection.AssemblyInfoInputs.cache
+C:\repos\generic-collectionSolutions\generic-collection\obj\Debug\netcoreapp3.1\generic-collection.AssemblyInfo.cs
+C:\repos\generic-collectionSolutions\generic-collection\obj\Debug\netcoreapp3.1\generic-collection.dll
+C:\repos\generic-collectionSolutions\generic-collection\obj\Debug\netcoreapp3.1\generic-collection.pdb
